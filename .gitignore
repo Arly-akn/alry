@@ -1,0 +1,11 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Local machine files
+.DS_Store
+Thumbs.db
+*.log
+
+# Add language-specific dependencies and build outputs after choosing the stack.
